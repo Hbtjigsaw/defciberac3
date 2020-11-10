@@ -9,7 +9,7 @@ def nao_entre_em_panico():
 
     primos = ""
     n = 0
-    x = 0
+    x = 2
 
     while(n < 100):
         if eh_primo(x):
